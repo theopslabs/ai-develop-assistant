@@ -15,7 +15,7 @@ company-portfolio-platform/
 ├── .github/
 │   └── workflows/
 ├── README.md
-└── CLAUDE.md
+└── AGENTS.md
 ```
 You don't need to create all these folders manually. Coding Agent can create them during the foundation phase.
 
